@@ -1,8 +1,8 @@
-package com.example.crud.demo.crud.controller;
+package com.crud.crud.controller;
 
 
-import com.example.crud.demo.crud.entity.Product;
-import com.example.crud.demo.crud.service.ProductService;
+import com.crud.crud.entity.Product;
+import com.crud.crud.service.ProductService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

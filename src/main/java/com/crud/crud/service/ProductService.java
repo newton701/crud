@@ -1,7 +1,7 @@
-package com.example.crud.demo.crud.service;
+package com.crud.crud.service;
 
-import com.example.crud.demo.crud.entity.Product;
-import com.example.crud.demo.crud.repository.ProductRepository;
+import com.crud.crud.entity.Product;
+import com.crud.crud.repository.ProductRepository;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
